@@ -1,1 +1,2 @@
 # Tech-Blog
+Definitely jsut did not put enough time aside to get this assignment fully functional and complete. Will definitely come back to it in the next week or two because this assignment covers things I definitely want to get a hold on 100 percent.
